@@ -6,7 +6,6 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 import Sidebar from "../components/sidebar"
-import Jumb from "../components/jumb"
 import Skills from "../pages/skills"
 import {
   TiStarOutline as Fav ,

@@ -20,7 +20,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/Mr404Found/gatsby-sidedrawer
+    gatsby new my-default-navbar https://github.com/Mr404Found/gatsby-sidedrawer
     ```
 
 1.  **Start developing.**
@@ -28,6 +28,6 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd gatsby-sidedrawer/
+    cd my-default-navbar/
     gatsby develop
     ```

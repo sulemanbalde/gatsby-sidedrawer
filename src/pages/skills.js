@@ -5,7 +5,9 @@ import Flash from "react-reveal/Flash"
 export default function skills() {
   return (
     <div>
+    <p className="recent-posts">Recent Posts</p>
       <div className="container">
+      
         <Fade right>
           <div className="card">
             <h4>HELLO</h4>

@@ -7,6 +7,7 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 import Sidebar from "../components/sidebar"
 import Skills from "../pages/skills"
+import Social from "../components/socialLinks"
 import {
   TiStarOutline as Fav ,
   FaCanadianMapleLeaf as Can,
@@ -22,6 +23,7 @@ const IndexPage = () => (
   </div>
   <h6>JO BREED.</h6><br/>
   </div>
+  <Social />
   <Skills />
   <Footer />
   </div>

@@ -12,7 +12,7 @@ export default function sidebar() {
         <div>
         <Menu>
         <a id="home" className="menu-item" href="/">Home</a>
-        <a id="about" className="menu-item" href="#testid2">Values</a>
+        <a id="about" className="menu-item" href="#testid2">Posts</a>
         <a id="contact" className="menu-item" href="#testid3">Credits</a>
         <a id="contact" className="menu-item" href="/">Location</a>
         <a id="contact" className="menu-item" href="/">Contact</a>

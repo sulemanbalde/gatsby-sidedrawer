@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import "../utils/styles/index.css"
+import "../components/styles/index.css"
 import Footer from "../components/footer"
 import Layout from "../components/layout"
 import Image from "../components/image"

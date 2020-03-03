@@ -1,5 +1,5 @@
 import React from 'react'
-import "../utils/styles/sidebar.css"
+import "../components/styles/sidebar.css"
 import { stack as Menu } from 'react-burger-menu'
 import {
     TiStarOutline  as star,

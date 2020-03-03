@@ -1,5 +1,5 @@
 import React from "react"
-import "../utils/styles/skills.css"
+import "../components/styles/skills.css"
 import Fade from "react-reveal/Fade"
 import Flash from "react-reveal/Flash"
 export default function skills() {

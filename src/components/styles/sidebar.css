@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Spartan:500&display=swap');
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  left: 15px;
+  top: 18px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: rgb(121, 150, 245);
+}
+
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+  background: #a90000;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #ff1b1b;
+}
+
+/*
+Sidebar wrapper styles
+Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #0E011E;
+  padding: 1.5rem 2rem 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+  /* padding-left:1rem; */
+  padding-top: 1rem;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+.menu-item{
+    text-decoration: none;
+    color: #CCD6F6;
+    padding: 10px;
+    padding-bottom: 25px;
+    /* text-align: center; */
+    font-size: 1.5rem;
+    font-family: 'Poppins',sans-serif ;
+}
+.menu-item:active{
+    color: tomato;
+
+}
+
+.topright{
+  display: flex;
+  float: right;
+  margin-right: 6px;
+  
+}
+ul li a{
+  text-decoration: none;
+  margin: 10px;
+  font-size: 1rem;
+  font-family: 'Spartan', monospace;
+  border: 2px solid white;
+  border-radius: 12px;
+  padding: 8px;
+  margin: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
+  /* box-shadow: 0 3px 20px rgba(255, 255, 255, 0.9); */
+}
+ul li{
+  list-style: none;
+  margin-top: 19px;
+  margin-left: 20px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+

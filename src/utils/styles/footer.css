@@ -1,15 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Sriracha&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Poppins|Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
 .ftrtext{
     text-align: center;
-    color: powderblue;
-    font-family: 'Raleway', sans-serif;
+    color: #7996F5;
+    color: black;
+    font-family: 'Spartan', monospace;
     /* margin-top: 34%; */
     margin-bottom: 0;
 }
 .footerbody{
-    padding-top: 80%;
+    /* padding-top: 80%; */
     bottom: 0;
     /* position: fixed; */
 }

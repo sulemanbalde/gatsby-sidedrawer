@@ -23,6 +23,7 @@ const IndexPage = () => (
   <h6>JO BREED.</h6><br/>
   </div>
   <Skills />
+  <Footer />
   </div>
 )
 

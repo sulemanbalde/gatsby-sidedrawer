@@ -5,7 +5,9 @@
   width: 320px;
   /* margin-left: 30%; */
   background-color: #fff;
-  box-shadow: 0 3px 20px rgba(211, 211, 211, 0.7);
+  box-shadow:inset -3px 3px 20px rgba(211, 211, 211, 0.7);
+
+  /* box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945); */
   border-radius: 15px;
   text-align: center;
   margin-top: 0;

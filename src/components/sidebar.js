@@ -17,10 +17,10 @@ export default function sidebar() {
           Courses
         </a>
         <a id="android_app" className="menu-item" href="/">
-          Android App
+          About
         </a>
         <a id="about" className="menu-item" href="/">
-          About Me
+          Android App
         </a>
         <fav />
         {/* <a onClick={ this.showSettings } className="menu-item--small" href="">Settings</a> */}

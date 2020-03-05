@@ -42,6 +42,7 @@ Note: Beware of modifying this element as it can break the animations - you shou
 /* General sidebar styles */
 .bm-menu {
   background: #0E011E;
+  /* background: #7996F5; */
   padding: 1.5rem 2rem 0;
   font-size: 1.15em;
 }
@@ -105,7 +106,14 @@ ul li{
   list-style: none;
   margin-top: 22px;
   margin-left: 20px;
-  
+}
+.bg-moon{
+  width: 100px;
+  background-size: contain;
+  margin-left: 0;
+  filter: opacity(0.4);
+  /* transform: rotate(180deg); */
+  /* margin-top: 01px; */
 }
 
 

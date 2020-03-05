@@ -5,7 +5,7 @@ import Flash from "react-reveal/Flash"
 export default function skills() {
   return (
     <div>
-    <p className="recent-posts">Featured Posts</p>
+    <p className="recent-posts">Recent Posts</p>
       <div className="container">
       
         <Fade right>

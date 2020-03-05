@@ -6,11 +6,12 @@
   /* margin-left: 30%; */
   background-color: #fff;
   box-shadow:inset -3px 3px 20px rgba(211, 211, 211, 0.7);
-
-  /* box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945); */
   border-radius: 15px;
   text-align: center;
   margin-top: 0;
+  background: #dde1e7;
+	border-radius: 5px;
+	box-shadow: inset -3px -3px 15px #ffffffb0,inset 3px 3px 5px rgba(94, 104, 121, 0.692);
 }
 .container {
   display: grid;

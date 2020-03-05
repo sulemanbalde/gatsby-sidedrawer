@@ -1,6 +1,6 @@
 import React from "react"
 import "../components/styles/sidebar.css"
-import { stack as Menu } from "react-burger-menu"
+import { slide as Menu } from "react-burger-menu"
 import { TiStarOutline as star } from "react-icons/fa"
 
 export default function sidebar() {

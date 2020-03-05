@@ -6,15 +6,6 @@ export default function socialLinks() {
     <div>
       <div className="social-cont">
         <div className="circle-cont">
-          <a href="https://github.com/Mr404Found">
-            <img
-              src="https://image.flaticon.com/icons/svg/36/36686.svg"
-              alt=""
-              width="27"
-            />
-          </a>
-        </div>
-        <div className="circle-cont">
           <a href="">
             <img
               src="https://image.flaticon.com/icons/svg/2111/2111628.svg"
@@ -32,10 +23,29 @@ export default function socialLinks() {
             />
           </a>
         </div>
+        
         <div className="circle-cont">
           <a href="">
             <img
               src="https://image.flaticon.com/icons/svg/732/732245.svg"
+              alt=""
+              width="30"
+            />
+          </a>
+        </div>
+        <div className="circle-cont">
+          <a href="">
+            <img
+              src="https://image.flaticon.com/icons/svg/1384/1384063.svg"
+              alt=""
+              width="30"
+            />
+          </a>
+        </div>
+        <div className="circle-cont">
+          <a href="">
+            <img
+              src="https://image.flaticon.com/icons/svg/2111/2111499.svg"
               alt=""
               width="30"
             />

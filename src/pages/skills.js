@@ -5,7 +5,7 @@ import Flash from "react-reveal/Flash"
 export default function skills() {
   return (
     <div>
-    <p className="recent-posts">Recent Posts</p>
+    <p className="recent-posts">Featured Posts</p>
       <div className="container">
       
         <Fade right>
@@ -37,6 +37,7 @@ export default function skills() {
             Complete version will be <br /> <br /> Updated Soon!!
           </h4>
         </Flash>
+        <img src="https://dreamy-meninsky-7a16dd.netlify.com/static/about-77a29da12162998f54a365d8fe6703e1.svg" alt="" srcset=""/>
       </div>
     </div>
   )

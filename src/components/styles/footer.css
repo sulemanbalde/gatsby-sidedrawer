@@ -8,10 +8,10 @@
     color: black;
     font-family: 'Spartan', monospace;
     /* margin-top: 34%; */
-    margin-bottom: 0;
+    margin-bottom: 8px;
 }
 .footerbody{
     /* padding-top: 80%; */
-    bottom: 0;
+    bottom: 5;
     /* position: fixed; */
 }
